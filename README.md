@@ -1,2 +1,4 @@
-# AB_tests-randomized_design-website_conversion
-Analysis of randomized design A/B test and analyse the results. 
+# A/B Test for Randomized Design: Website Conversion Rates
+#### by Sooyeon Won 
+
+## Introduction
