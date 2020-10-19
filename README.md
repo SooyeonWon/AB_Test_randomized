@@ -1,6 +1,14 @@
 # A/B Test for Randomized Design: Website Conversion Rates
 #### by Sooyeon Won 
 
+### Keywords 
+- Analytic Frameworks 
+- Probability Comparison
+- A/B Testing Approach
+- Regression Approach
+- Data Visualisation
+
+
 ## Introduction
 For this project, I worked to understand the results of an A/B test run by an e-commerce website, as the project of _Data Analyst Statistics_ in [Udacity Nanodegree Program for Data Analytics](https://www.udacity.com/course/data-analyst-nanodegree--nd002).  The company has developed a new web page in order to try and increase the number of users who "convert," meaning the number of users who decide to pay for the company's product. The goal is to help the company understand whether they should implement this new page, keep the old page, or perhaps run the experiment longer to make their decision.
 <br><br>
