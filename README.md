@@ -1,5 +1,5 @@
 # Website Conversion Rates Analysis 
-- A/B Test for Randomized Design 
+A/B Test for Randomized Design 
 
 #### by Sooyeon Won 
 
